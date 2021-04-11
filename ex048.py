@@ -11,5 +11,5 @@ for c in range(1, 501, 2):
         contador = contador + 1
         soma = soma + c
         
-print(f'A soma de todos os {contador} valores solicitados é: {soma}')
+print(f'A soma de todos os {contador} valores solicitados é: {soma}.')
 
